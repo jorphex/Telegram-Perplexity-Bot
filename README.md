@@ -1,0 +1,1 @@
+Telegram Perplexity bot. Change model as needed: Sonar and Sonar Deep Research. Has web search. Supports multiple concurrent conversations: multiple users and multiple groups (eg. user adds bot to multiple groups to maintain multiple conversations)
